@@ -1,0 +1,1 @@
+start pythonw "D:\Softwares\The Python Mega Course - Build 10 Real World Applications\WebsiteBlocker\main.pyw" 1>stdout.txt 2>stderr.txt
